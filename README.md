@@ -1,6 +1,6 @@
 # How to run this file?
 
-Go to your [app preferences](app preferences). Click the "Create app" or "Create another app" button. Fill out the form like so:
+Go to your [app preferences](https://www.reddit.com/prefs/apps). Click the "Create app" or "Create another app" button. Fill out the form like so:
  - name: My Example App
  - App type: Choose the script option
  - description: You can leave this blank
