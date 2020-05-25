@@ -1,3 +1,6 @@
+# What does this do?
+This allows you to block a list of reddit accounts found in `blocklist.txt`. Enter each account on its own line. The two accounts listed in the file currently are just examples of how to format the file.
+
 # How to run this file?
 
 Go to your [app preferences](https://www.reddit.com/prefs/apps). Click the "Create app" or "Create another app" button. Fill out the form like so:
@@ -31,3 +34,4 @@ password = 'coolredditpassword123'
 script_agent = 'bot'
 ```
 
+Now run the python file using python3: `$(which python3) block.py`. If successful you should see a message like `successfully blocked 99 accounts`.
